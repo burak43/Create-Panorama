@@ -1,0 +1,1 @@
+Creates a panoramic image "panorama.jpg" from the image set "./Images/".
